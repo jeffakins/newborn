@@ -1,1 +1,3 @@
 # First Git
+This is the birth of a new era...
+One that is immersed in Data Science
